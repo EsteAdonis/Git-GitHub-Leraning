@@ -17,9 +17,10 @@ namespace Git.GitHub.Controller
 			_config = config;
 		}
 
+		[HttpGet]
 		public ActionResult GetTotalCount()
 		{
-			return Ok(10);
+			return Ok(15);
 		}
 	}
 }
