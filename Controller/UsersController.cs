@@ -8,7 +8,7 @@ namespace Git.GitHub.Controller
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UsersiController : ControllerBase
+    public class UsersController : ControllerBase
     {
         
     }
