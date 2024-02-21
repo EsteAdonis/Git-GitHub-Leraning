@@ -4,3 +4,5 @@ Thi repo is updated
 
 yet [adverb]
 Use in negative statements and questions to talk about whether that was expected has happened.
+
+# Repository Goals
