@@ -13,3 +13,4 @@ Actress.
 1. Amy Adams.
 2. Elizabeth Sue.
 3. Rebeca Ferguson.
+4. Vanessa Kirby.
