@@ -1,12 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Git.GitHub.Models
 {
-    public class User
-    {
-        
-    }
+	public class User
+	{
+		public string Id { get; set; } = string.Empty;
+		public string Name { get; set; } = string.Empty;
+	}
 }
