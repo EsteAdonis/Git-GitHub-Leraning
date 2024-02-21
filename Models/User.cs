@@ -6,5 +6,6 @@ namespace Git.GitHub.Models
 		public string Name { get; set; } = string.Empty;
 		public DateTime DateOfBirth { get; set; } = DateTime.Now;
 		public bool IsActive { get; set; } = false;
+		public float Salary { get; set; } = 0.0f;
 	}
 }
