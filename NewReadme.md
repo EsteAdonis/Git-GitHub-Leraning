@@ -5,6 +5,6 @@ Thi repo is updated
 yet [adverb]
 Use in negative statements and questions to talk about whether that was expected has happened.
 
-# Repository Goals
+# Repository Main Goals
 
 Minim deserunt elit elit reprehenderit ea. Dolor voluptate fugiat et et pariatur est dolore cupidatat in aute. Dolore Lorem ullamco commodo deserunt officia sint irure est do ea minim ipsum. Pariatur commodo eiusmod ullamco sunt Lorem. Ullamco culpa in eu laboris sint magna sit consectetur voluptate eu.
